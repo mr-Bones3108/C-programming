@@ -1,3 +1,4 @@
+*.exe/
 dir/
 main.c
 quiz1.c
