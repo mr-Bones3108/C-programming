@@ -1,1 +1,0 @@
-printf("The value of %d, %d element of the array is %d\n", i, j, marks[i][j]);
