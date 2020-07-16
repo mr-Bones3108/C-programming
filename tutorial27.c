@@ -21,4 +21,3 @@ int main(int argc, char const *argv[])
     printf("The address of the second element of the array is %d\n", &arr[1]);
 
     return 0;
-}
